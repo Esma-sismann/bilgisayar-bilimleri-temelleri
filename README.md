@@ -64,10 +64,15 @@ graph LR
 Disk--> RAM
 RAM--> CPU
 CPU-->RAM
-
+```
 ---
 
+## 📊 Sonuç
 
+Bilgisayarın performansı CPU, RAM ve depolama birimlerinin uyumlu çalışmasına bağlıdır. 
+Bu bileşenlerin doğru seçimi, sistem verimliliğini artırır.
+
+---
 
 
 ## 👤 Author
