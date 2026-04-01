@@ -66,6 +66,8 @@ RAM--> CPU
 CPU-->RAM
 
 ---
+
+
 ## 📊
   Sonuç
 
