@@ -61,9 +61,9 @@ Daha fazla RAM = Daha akıcı kullanım
 
 ```mermaid
 graph LR
-A[Disk] --> B[RAM]
-B --> C[CPU]
-C --> B
+Disk--> RAM
+RAM--> CPU
+CPU-->RAM
 
 ---
 ## 📊
