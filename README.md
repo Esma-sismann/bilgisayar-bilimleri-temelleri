@@ -2,12 +2,6 @@
 Bilgisayar bilimleri temel kavramları (CPU, RAM, Disk) hakkında mini proje
 # 🚀 Bilgisayar Bilimleri Temelleri
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Beginner-green">
-  <img src="https://img.shields.io/badge/Topic-Computer%20Science-blue">
-  <img src="https://img.shields.io/badge/Week-1-orange">
-</p>
-
 ---
 
 ## 📌 Proje Hakkında
